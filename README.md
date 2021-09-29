@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...Android, Flutter, Java, Kotlin 
 - 📫 How to reach me: ... pradeepmaurya.cse@gmail.com
+- 🌐 Web: ......[ Lorem ipsum dolor](link)
 - ⚡ Fun fact: ......try-catch and commit
 
 <!-- - 👯 I’m looking to collaborate on ... -->
