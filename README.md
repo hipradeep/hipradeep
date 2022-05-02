@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Android, Flutter, Java, Kotlin 
 - 📫 How to reach me: ... pradeepmaurya.cse@gmail.com
 - ⚡ Fun fact: ......try-catch and commit
-- 🌐 Web: ......[hipradeep.in](https://hipradeep.in/)
+- 🌐 Web: ......[hipradeep.in](http://hipradeep.in/)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
